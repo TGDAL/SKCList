@@ -1,0 +1,22 @@
+.Title {
+    background-color: blueviolet;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+h3 {
+    float: right;
+}
+
+h3, h1 {
+
+    display: inline-block;
+
+}
+
+body {
+    background-color: lightblue;
+}
